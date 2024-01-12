@@ -1,0 +1,64 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Charlie Spring",
+        "image": "https://example.com/charlie_image.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Nick Nelson",
+        "image": "https://example.com/nick_image.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Tori Spring",
+        "image": "https://example.com/tori_image.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Darcy Olsson",
+        "image": "https://example.com/darcy_image.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Helen Burgess",
+        "image": "https://example.com/helen_image.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Leah Burke",
+        "image": "https://example.com/leah_image.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Aled Last",
+        "image": "https://example.com/aled_image.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Frances Janvier",
+        "image": "https://example.com/frances_image.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Lara Evans",
+        "image": "https://example.com/lara_image.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Chris Collins",
+        "image": "https://example.com/chris_image.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Jimmy Kaga-Ricci",
+        "image": "https://example.com/jimmy_image.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Charlie's Mum (Sharon Spring)",
+        "image": "https://example.com/sharon_image.jpg"
+      }
+    ]
+  }
